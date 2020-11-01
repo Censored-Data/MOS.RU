@@ -29,7 +29,7 @@
 
 ##### Поиск в реальном времени по заданным категориям
 
-<img src="https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Search.png?raw=true" height="24" width="48">
+<img src="https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Search.png?raw=true" height="682">
 
 #### Rate Limiting
 
