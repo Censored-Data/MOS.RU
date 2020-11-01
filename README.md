@@ -45,14 +45,14 @@ Frontend: (Port 3001)
 ```sh
 cd client
 npm install
-npm run dev
+npm start
 ```
 
 Backend Node.js: (Port 3002)
 ```sh
 cd node
 npm install
-npm run dev
+node server
 ```
 
 Backend Python: (Port 3003)
