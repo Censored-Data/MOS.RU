@@ -20,10 +20,11 @@
 
 ```jsx
 Сервис выполняет свою основные функции моментально. До-обучение моделей ML происходит параллельно.
-Пользователь получит рекомендации вовремя, и как только модели обновятся новые релевантные книги попадут к нему в ленту
+Пользователь получит рекомендации вовремя, и как только модели обновятся новые
+релевантные книги попадут к нему в ленту
 ```
 
-##### Афиша
+##### Демонстрация личного кабинета пользователя
 ![](https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Afisha.gif?raw=true)
 
 #### Rate Limiting
@@ -44,14 +45,14 @@ Frontend: (Port 3001)
 ```sh
 cd client
 npm install
-npm run dev
+npm start
 ```
 
 Backend Node.js: (Port 3002)
 ```sh
 cd node
 npm install
-npm run dev
+node server
 ```
 
 Backend Python: (Port 3003)
