@@ -41,7 +41,7 @@ app.use(rateLimit({
 
 #### 
 
-## :rocket: Getting Started
+## :rocket: Технические подробности
 
 ### Installation
 Frontend: (Port 3001)
