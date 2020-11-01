@@ -27,10 +27,6 @@
 ##### Демонстрация личного кабинета пользователя
 ![](https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Afisha.gif?raw=true)
 
-##### Поиск в реальном времени по заданным категориям
-
-<img src="https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Search.png?raw=true" height="682">
-
 #### Rate Limiting
 
 ```js
