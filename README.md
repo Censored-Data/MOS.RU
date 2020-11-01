@@ -28,6 +28,9 @@
 ![](https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Afisha.gif?raw=true)
 
 ##### Поиск в реальном времени по заданным категориям
+![](https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Search.png?raw=true)
+
+##### Раздел Афиша
 ![](https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Afisha_new.png?raw=true)
 
 #### Rate Limiting
