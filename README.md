@@ -24,7 +24,7 @@
 релевантные книги попадут к нему в ленту
 ```
 
-##### Афиша
+##### Демонстрация личного кабинета пользователя
 ![](https://github.com/Censored-Data/MOS.RU/blob/main/Gallery/Afisha.gif?raw=true)
 
 #### Rate Limiting
